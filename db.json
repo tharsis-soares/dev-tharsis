@@ -3,14 +3,14 @@
     {
       "text": "Tharsis Soares",
       "day": "22/04/21",
-      "reminder": false,
+      "reminder": true,
       "id": 1
     },
     {
-      "text": "Mensagem de teste para vaga em curso avancado",
-      "day": "22/04/21",
+      "text": "tharsis",
+      "day": "21/21/21",
       "reminder": true,
-      "id": 2
+      "id": 3
     }
   ]
 }

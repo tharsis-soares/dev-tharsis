@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Mural de mensagens feito com Create React App e Json Server
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
